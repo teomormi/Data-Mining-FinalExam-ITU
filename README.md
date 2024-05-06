@@ -3,11 +3,8 @@
 This folder contains files related to the Data Mining exam. The materials included here are intended for reference and use for the exam.
 
 ## Authors
-- Stefano Baroni
-  - Email: steba@itu.dk
-
-- Matteo Mormile
-  - Email: matmo@itu.dk
+- Stefano Baroni (steba@itu.dk)
+- Matteo Mormile (matmo@itu.dk or matteo.mormile@mail.polimi.it)
 
 ## Contents
 - **Motor_Vehicle_Collisions-Crashes.csv**: Original dataset **not** included, to be downloaded at the following link: https://catalog.data.gov/dataset/motor-vehicle-collisions-crash
