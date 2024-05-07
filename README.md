@@ -1,4 +1,4 @@
-# Data Mining Exam Files
+# Exam Files for Data Mining Course at IT University of Copenhagen - AY 2023-2024
 
 This folder contains files related to the Data Mining exam. The materials included here are intended for reference and use for the exam.
 
