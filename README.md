@@ -1,6 +1,7 @@
 # Exam Files for Data Mining Course at IT University of Copenhagen - AY 2023-2024
 
-This folder contains files related to the Data Mining exam. The materials included here are intended for reference and use for the exam.
+This folder contains files related to the Data Mining exam. The materials included here are intended for reference and use for the exam. \
+You can find the original enterprise repository here: https://github.itu.dk/matmo/DataMining2023
 
 ## Authors
 - Stefano Baroni (steba@itu.dk)
